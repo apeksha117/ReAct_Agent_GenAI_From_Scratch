@@ -1,1 +1,16 @@
+# Ignore .env files
 .env
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+*.env
+
+# Log files
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
